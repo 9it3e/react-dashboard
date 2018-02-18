@@ -1,0 +1,13 @@
+.card-weather {
+    min-height: 200px;
+    color: #fff;
+}
+
+.card-weather .temperature {
+    font-size: 40px;
+    margin-top: 35px;
+}
+
+.card-weather .location {
+    font-size: 14px;
+}

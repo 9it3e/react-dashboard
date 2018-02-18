@@ -1,0 +1,16 @@
+.card-default {
+    min-height: 200px;
+    text-align: left;
+}
+
+.card-default .count {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 45px;
+    color: #656565;
+}
+
+.card-default .text {
+    font-size: 14px;
+    color: #b4b5b5;
+}

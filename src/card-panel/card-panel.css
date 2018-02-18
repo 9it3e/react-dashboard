@@ -1,0 +1,35 @@
+.card-lg {
+    min-height: 300px;
+}
+
+.card-sm {
+    min-height: 150px;
+}
+
+.card-panel .card-footer {
+    background-color: #484d4d;
+}
+
+.card-panel .card-header .panel-text-count {
+    color: #fff;
+    font-size: 25px;
+}
+
+.card-panel .card-header .panel-text-title {
+    color: #fff;
+    font-size: 14px;
+}
+
+.card-panel .card-header {
+    text-align: left;
+}
+
+.card-panel .card-footer .panel-text-count {
+    color: #fff;
+    font-size: 25px;
+}
+
+.card-panel .card-footer .panel-text-title {
+    color: #b1b2b2;
+    font-size: 14px;
+}
